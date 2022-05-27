@@ -1,4 +1,4 @@
-# Face Verification Based Attendance System
+# MarkME Face Verification Based Attendance System
 ## About
 In this Attendance System the attendance for students is marked using Face verification. The Faculty has the permission to take Attendance, add a student, modify student details. The Faculty can also search for attendance of a student using Multiparameter Search, by specifying the student ID, date of attendance, period of Attendance.<br>
 The credentials for the Faculty are provided by the superuser who has access to the whole database. Only the superuser can update the attendance of a student.<br>
